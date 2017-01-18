@@ -704,6 +704,7 @@ aside > div:nth-of-type(2) input:nth-of-type(2) {
 		section .by {
 			background: none;
 			border: none;
+			width: 62%;
 		}
 		section .by li {
 			float: none;
@@ -712,6 +713,8 @@ aside > div:nth-of-type(2) input:nth-of-type(2) {
 			        border-radius: 5px;
 			background: linear-gradient(to top, #f4f3f1, #ffffff);
 			width: 100%;
+			text-align: left;
+			padding-left: 10px;
 		}
 		section .by li:last-child {
 			border-right: 1px solid #cfcdc5;
