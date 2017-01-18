@@ -100,7 +100,6 @@ header .maxw {
 	margin: 0;
 	padding: 0;
 	min-height: 35px;
-	/*max-height: auto;*/
 	box-shadow: -1px -1px 0px #0c932f;
 	background: #10951b;
 	background: linear-gradient(to top, #10951b, #60be3b);
